@@ -35,7 +35,7 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
-            Welcome to&nbsp;Expo
+            Huzaifa Tahir 23i-0088
           </ThemedText>
         </ThemedView>
 
